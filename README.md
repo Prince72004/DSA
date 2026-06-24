@@ -4,14 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Prince72004/DSA/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Prince72004/DSA/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/Prince72004/DSA/tree/master/1323-maximum-69-number) |
 ## Math
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Prince72004/DSA/tree/master/1323-maximum-69-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
