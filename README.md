@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prince72004/DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince72004/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prince72004/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Prince72004/DSA/tree/master/0605-can-place-flowers) |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prince72004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Prince72004/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
