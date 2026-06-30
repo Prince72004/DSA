@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prince72004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 ## Binary Search
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prince72004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince72004/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prince72004/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince72004/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prince72004/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
