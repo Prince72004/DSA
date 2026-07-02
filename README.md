@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince72004/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/Prince72004/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince72004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Prince72004/DSA/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prince72004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prince72004/DSA/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/Prince72004/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince72004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince72004/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince72004/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince72004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prince72004/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
