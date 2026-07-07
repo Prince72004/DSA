@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Prince72004/DSA/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince72004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Prince72004/DSA/tree/master/1323-maximum-69-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prince72004/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
