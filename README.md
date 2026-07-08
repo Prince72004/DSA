@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Prince72004/DSA/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Prince72004/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince72004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Prince72004/DSA/tree/master/1323-maximum-69-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prince72004/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Prince72004/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Prince72004/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
 | ------- |
