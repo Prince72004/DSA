@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prince72004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince72004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Prince72004/DSA/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Prince72004/DSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Prince72004/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prince72004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prince72004/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -152,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince72004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Prince72004/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Prince72004/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Prince72004/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Prince72004/DSA/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
