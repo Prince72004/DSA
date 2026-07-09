@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prince72004/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Prince72004/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prince72004/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Prince72004/DSA/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Prince72004/DSA/tree/master/0022-generate-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prince72004/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/Prince72004/DSA/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prince72004/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prince72004/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
