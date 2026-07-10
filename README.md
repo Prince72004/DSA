@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Prince72004/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Prince72004/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince72004/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Prince72004/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Prince72004/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -185,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prince72004/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prince72004/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Prince72004/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
