@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Prince72004/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Prince72004/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Prince72004/DSA/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Prince72004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Prince72004/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Prince72004/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Prince72004/DSA/tree/master/0047-permutations-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prince72004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince72004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1288-remove-covered-intervals](https://github.com/Prince72004/DSA/tree/master/1288-remove-covered-intervals) |
@@ -189,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prince72004/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Prince72004/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Prince72004/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Prince72004/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Prince72004/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
