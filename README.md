@@ -199,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Prince72004/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Prince72004/DSA/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Prince72004/DSA/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Prince72004/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
