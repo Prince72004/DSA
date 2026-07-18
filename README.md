@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prince72004/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prince72004/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prince72004/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prince72004/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince72004/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince72004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Prince72004/DSA/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prince72004/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prince72004/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prince72004/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prince72004/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Prince72004/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
