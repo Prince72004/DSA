@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince72004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Prince72004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prince72004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince72004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Prince72004/DSA/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Prince72004/DSA/tree/master/0682-baseball-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Prince72004/DSA/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Prince72004/DSA/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Prince72004/DSA/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince72004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prince72004/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 ## Binary Search
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prince72004/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Prince72004/DSA/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
