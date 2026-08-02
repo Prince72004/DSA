@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prince72004/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Prince72004/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince72004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Prince72004/DSA/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Prince72004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prince72004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Prince72004/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Prince72004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince72004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Prince72004/DSA/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Prince72004/DSA/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prince72004/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Prince72004/DSA/tree/master/0713-subarray-product-less-than-k) |
