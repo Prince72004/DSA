@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prince72004/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prince72004/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Prince72004/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Prince72004/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prince72004/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince72004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Prince72004/DSA/tree/master/1260-shift-2d-grid) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Prince72004/DSA/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Prince72004/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prince72004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/Prince72004/DSA/tree/master/1323-maximum-69-number) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Prince72004/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Prince72004/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Prince72004/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Prince72004/DSA/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
