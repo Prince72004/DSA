@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Prince72004/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/Prince72004/DSA/tree/master/0397-integer-replacement) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prince72004/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Prince72004/DSA/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince72004/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prince72004/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Prince72004/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prince72004/DSA/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Prince72004/DSA/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/Prince72004/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Prince72004/DSA/tree/master/0877-stone-game) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Prince72004/DSA/tree/master/0090-subsets-ii) |
+| [0397-integer-replacement](https://github.com/Prince72004/DSA/tree/master/0397-integer-replacement) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince72004/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prince72004/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sliding Window
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Prince72004/DSA/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Prince72004/DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
